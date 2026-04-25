@@ -1,0 +1,8 @@
+00000000 b .bss
+00000000 d .data
+00000000 r .eh_frame
+00000000 r .rdata
+00000000 r .rdata$zzz
+00000000 t .text
+00000000 T _area_circulo
+00000022 T _factorial
